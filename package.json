@@ -1,0 +1,19 @@
+{
+  "name": "hannanraja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannanraja121/Hannanraja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannanraja121/Hannanraja/issues"
+  },
+  "homepage": "https://github.com/hannanraja121/Hannanraja#readme"
+}
